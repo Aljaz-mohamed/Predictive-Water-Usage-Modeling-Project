@@ -48,7 +48,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/FairWater.git
+   git clone https://github.com/Aljaz-mohamed/Predictive-Water-Usage-Modeling-Project.git
    cd FairWater
    ```
 2. Install the required dependencies:

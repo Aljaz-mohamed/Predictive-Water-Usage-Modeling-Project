@@ -5,9 +5,6 @@ FairWater is a machine learning project that focuses on analyzing and forecastin
 - **Time Series Forecasting**: Implementation of LSTM, GRU, and XGBoost models to predict water consumption patterns.
 - **Anomaly Detection**: Utilization of the ADTK library to detect unusual water usage behaviors.
 - **Exploratory Data Analysis (EDA)**: Insights into water consumption trends across various household fixtures.
-
-This project is a part of the CSC8633 Group Project in Data Science, conducted in collaboration with Newcastle University and industry partners.
-
 ---
 
 ## Repository Structure
@@ -68,17 +65,17 @@ Ensure you have the following installed:
 
 ## Usage
 1. **Data Preprocessing**:
-   - Place the raw dataset files in the `data/raw/` folder.
-   - Process and clean the data using the steps outlined in the `eda.ipynb` notebook. Save processed data to `data/processed/`.
+   - Place the raw dataset files in the `Data/Raw/` folder.
+   - Process and clean the data using the steps outlined in the `Exploratory_Data_Analysis.ipynb` notebook. Save processed data to `Data/Processed/`.
 
 2. **Exploratory Data Analysis**:
-   - Open the `notebooks/eda.ipynb` notebook to visualize and analyze household water usage trends.
+   - Open the `Notebooks/Exploratory_Data_Analysis.ipynb` notebook to visualize and analyze household water usage trends.
 
 3. **Time Series Modeling**:
-   - Use the `notebooks/time_series_models.ipynb` notebook to run predictive models and evaluate their performance.
+   - Use the `Notebooks/Time_series_Models.ipynb` notebook to run predictive models and evaluate their performance.
 
 4. **Anomaly Detection**:
-   - Detect anomalies in water usage using the `notebooks/anomaly_detection.ipynb` notebook.
+   - Detect anomalies in water usage using the `Notebooks/Leak_detection.ipynb` notebook.
 
 ---
 
